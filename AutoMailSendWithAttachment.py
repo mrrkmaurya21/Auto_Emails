@@ -38,7 +38,7 @@ def main():
     # Email settings
     subject = "just for check "
     message = "Hello Mr. How are you"
-    sender_email = "checkproject23@gmail.com"
+    sender_email = "Your Email id"
     sender_password = "mezyntdnkqxsnkji"
     attachment_path="E:/datafile/emails.csv"
 
